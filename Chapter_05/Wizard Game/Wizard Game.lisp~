@@ -1,0 +1,3 @@
+;;;; Wizard Game.lisp
+
+(in-package #:Wizard Game)
